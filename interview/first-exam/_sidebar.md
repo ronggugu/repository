@@ -6,7 +6,7 @@
 * [1.5 CSS图文样式](/interview/first-exam/1.5%20CSS%E5%9B%BE%E6%96%87%E6%A0%B7%E5%BC%8F.md)
 * [1.6 CSS响应式](/interview/first-exam/1.6%20CSS%E5%93%8D%E5%BA%94%E5%BC%8F.md)
 2. JS基础-变量类型和计算【不会变量，别说你会JS】
-* [2.1 变量类型和计算.md](/interview/first-exam/2.1%20%E5%8F%98%E9%87%8F%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%AE%A1%E7%AE%97.md.md)
+* [2.1 变量类型和计算.md](/interview/first-exam/2.1%20%E5%8F%98%E9%87%8F%E7%B1%BB%E5%9E%8B%E5%92%8C%E8%AE%A1%E7%AE%97.md)
 3. JS基础-原型和原型链【三座大山之一，必考！！！】
 * [3.1 class案例(怎么写class)](/interview/first-exam/3.1%20class%E6%A1%88%E4%BE%8B(%E6%80%8E%E4%B9%88%E5%86%99class).md)
 * [3.2 类型判断 - instanceof 与原型及原型链](/interview/first-exam/3.2%20%E7%B1%BB%E5%9E%8B%E5%88%A4%E6%96%AD%20-%20instanceof%20%E4%B8%8E%E5%8E%9F%E5%9E%8B%E5%8F%8A%E5%8E%9F%E5%9E%8B%E9%93%BE.md)
