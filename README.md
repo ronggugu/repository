@@ -13,7 +13,8 @@
 # **为什么会有这个网站**
 ---
 
->  本站参考 <a href="https://notebook.js.org/">r2coding</a>，在此基础上进行了修改，用于搭建个人的知识库，
+>  本站参考 <a href="https://notebook.js.org/">r2coding</a>，在此基础上进行了修改，
+用的框架为`docsify`,用于搭建个人的知识库，
 仅供学习使用。
 >  
 >  旨在为编程自学者提供一系列：
